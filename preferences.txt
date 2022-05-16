@@ -1,0 +1,5 @@
+favourite movie:Yesman",
+favourite TV show:"Scrubs",
+favourite food: "Pizza",
+favourite season:"Summer",
+country would like to visit:"Switzerland"
